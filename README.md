@@ -1,4 +1,4 @@
-# Análise de Postos de Gasolina
+# Análise de Postos de Combustível
 
 ![Postosdegasolina](https://github.com/user-attachments/assets/f39d8588-6960-4016-ac91-1ee66f162430)
 
